@@ -50,3 +50,6 @@ class TweetsController < ApplicationController
      
 
   end
+
+  
+  #The Rails controller is the logical center of your application. It coordinates the interaction between the user, the views, and the model. The controller is also a home to a number of important ancillary services. It is responsible for routing external requests to internal actions.
